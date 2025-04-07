@@ -1,7 +1,0 @@
-# lite/jupyterlite.toml
-
-[lite]
-output-dir = "dist"
-
-[content]
-files = ["../**/*.ipynb", "../**/*.csv"]
